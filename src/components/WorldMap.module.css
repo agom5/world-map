@@ -1,0 +1,20 @@
+.mapContainer path {
+  fill: #4b5563;
+  stroke: #171717;
+  stroke-width: 0.5px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  outline: none;
+}
+
+.mapContainer path:hover {
+  fill: #4ade80;
+  filter: brightness(1.1);
+}
+
+.mapContainer :global(.selected-country) {
+  fill: #16a34a !important;
+  stroke: #ffffff;
+  stroke-width: 1.5px;
+  z-index: 10;
+}
