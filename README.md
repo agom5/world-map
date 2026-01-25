@@ -1,5 +1,9 @@
 # Interactive World GDP Map 🌍
 
+[Live Demo](https://world-map-alex.netlify.app)
+
+<img width="1450" height="716" alt="world-map-sc" src="https://github.com/user-attachments/assets/3c1c5c26-8d85-4a74-b3b2-c7d0db621764" />
+
 An interactive React application that visualizes global GDP and population data using an SVG world map.  
 Built to demonstrate modern frontend practices, performance-aware SVG interactions, and clean styling architecture.
 
@@ -44,7 +48,7 @@ I built this project to practice:
 
 ### Prerequisites
 
-- Node.js
+- Node.js (v18+ recommended)
 - npm
 
 ### Installation
