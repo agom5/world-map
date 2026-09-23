@@ -1,4 +1,4 @@
-# Interactive World GDP Map 🌍
+# Interactive World GDP Map
 
 [Live Demo](https://world-map-alex.netlify.app)
 
